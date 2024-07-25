@@ -67,7 +67,7 @@
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
     </a> 
     <a href="https://firebase.google.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/></code> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code> 
     </a> 
     <a href="https://aws.amazon.com" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
@@ -75,21 +75,14 @@
     <a href="https://canvasjs.com" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="35" height="35"/></code> 
     </a> 
-    <a href="https://www.chartjs.org" target="_blank"> 
-        <code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://developer.android.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/></code> 
-    </a> 
+
     <a href="https://kotlinlang.org" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/></code> 
     </a> 
     <a href="https://flutter.dev" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/></code> 
     </a> 
-    <a href="https://reactnative.dev/" target="_blank"> 
-        <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="35"/></code> 
-    </a> 
+ 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" height="35"/></code> 
     </a> 
@@ -99,9 +92,7 @@
     <a href="https://code.visualstudio.com" target="_blank">
         <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
     </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/></code> 
-    </a> 
+
     <a href="https://www.photoshop.com/en" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/></code> 
     </a> 
@@ -111,9 +102,7 @@
     <a href="" target="_blank"> 
         <code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="35" height="35"/></code> 
     </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
-    </a> 
+   
     <a href="https://pytorch.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code> 
     </a> 

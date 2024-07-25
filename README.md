@@ -115,7 +115,7 @@
         <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
     </a> 
     <a href="https://pytorch.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code> 
     </a> 
     
 </p>
